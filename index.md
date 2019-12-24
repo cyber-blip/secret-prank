@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Howdy Scott!
 
 You can use the [editor on GitHub](https://github.com/cyber-blip/secret-prank/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
